@@ -1,0 +1,6 @@
+c:\users\marek\documents\visual studio 2015\Projects\Zadanie domowe 1\Zadanie domowe 1\bin\Debug\Zadanie domowe 1.exe.config
+c:\users\marek\documents\visual studio 2015\Projects\Zadanie domowe 1\Zadanie domowe 1\obj\Debug\Zadanie domowe 1.csprojResolveAssemblyReference.cache
+C:\Users\Marek\documents\visual studio 2015\Projects\Zadanie domowe 1\Zadanie domowe 1\bin\Debug\Zadanie domowe 1.exe
+C:\Users\Marek\documents\visual studio 2015\Projects\Zadanie domowe 1\Zadanie domowe 1\bin\Debug\Zadanie domowe 1.pdb
+C:\Users\Marek\documents\visual studio 2015\Projects\Zadanie domowe 1\Zadanie domowe 1\obj\Debug\Zadanie domowe 1.exe
+C:\Users\Marek\documents\visual studio 2015\Projects\Zadanie domowe 1\Zadanie domowe 1\obj\Debug\Zadanie domowe 1.pdb
